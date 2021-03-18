@@ -18,7 +18,7 @@ googleapis-common-protos==1.5.3
 grpcio==1.9.1
 idna==2.6
 Markdown==2.6.11
-Pillow==5.0.0
+Pillow==8.1.1
 protobuf==3.5.1
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
